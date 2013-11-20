@@ -1,0 +1,34 @@
+[
+    "index.md",
+    [
+        "basic-of-web.md",
+        "layers-of-web.md",
+        "js-slide-image.md",
+        "how-to-include.md",
+        "js-libraries.md"
+    ],
+    [
+        "javascript1.md",
+        "variable.md",
+        "variable-types.md",
+        "variable-types-1.md",
+        "condition.md",
+        "condition-1.md",
+        "loops.md"
+    ],
+    [
+        "jquery.md",
+        "jquery-downloading.md",
+        "querying-dom.md",
+        "events.md",
+        "bind-live-delegate.md",
+        "ajax.md",
+        "ajax-short-hand.md",
+        "load.md",
+        "getjson.md",
+        "get.md",
+        "post.md",
+        "jajax.md"
+    ],
+    "thanks.md"
+]
